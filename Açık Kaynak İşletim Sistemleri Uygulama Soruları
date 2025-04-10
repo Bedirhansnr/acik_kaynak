@@ -1,0 +1,23 @@
+
+# Sorular 
+
+1. *Paket yöneticisi (apt) hakkında bilgi görüntülemek için kullanılan komut nedir?*  
+    apt --help
+
+2. *"grep" komutuna ilişkin detaylı bilgileri görüntülemek için kullanılan komut nedir?*  
+    man grep
+
+3. *Linux işletim sisteminin dağıtım bilgisini görüntülemek için kullanılan komut nedir?*  
+   lsb_release -a
+
+4. *İşletim sisteminin kullandığı kernel versiyonunu ve ağ içinde kullanılan host adını görüntülemek için kullanılan komutlar nedir?*  
+   uname -r ve hostname
+
+5. İşletim sisteminin hangi kimlikle çalıştığını ve en son ne zaman açıldığını bilgisini veren komutlar nedir?*  
+   whoami ve uptime
+
+6. Disk kullanımını dosya bilgisiyle birlikte görüntülemek için kullanılan komut nedir?*  
+   du -h
+
+7. Bellek ve Swap alanını görüntülemek için kullanılan komut nedir?*  
+   free -h
